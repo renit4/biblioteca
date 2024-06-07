@@ -10,7 +10,7 @@
     <center><a href="">Menu</a></center>
     <br><br>
     <form action="" method="post">
-        <table>
+        <table> 
             <tr>
                 <td></td>
                 <td><input type="text"></td>
