@@ -1,4 +1,4 @@
 <?php
-    $con = mysqli_coneccted("localhost","root","","bibliooteca");
+    $con = mysqli_connect("localhost","root","","biblioteca");
     
 ?>
